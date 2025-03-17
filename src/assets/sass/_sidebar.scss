@@ -1,0 +1,49 @@
+.sidebar {
+  background: $font-primary;
+  // background-color: rgb(35, 199, 29);
+  grid-column: sidebar-start / sidebar-end;
+  grid-row: 1 / -1;
+  border: 1px solid $color-gray-light-2;
+}
+
+.side-nav {
+  font-size: 1.3rem;
+  list-style: none;
+  margin-top: 3.5rem;
+
+  &_item {
+    margin: 1rem 0.5rem;
+    border-top: 0.3px solid $color-gray-light-2;
+    color: $color-gray-light-2;
+    padding: 0.2rem;
+  }
+
+  &_item:hover {
+    padding: 0.5rem;
+    background-color: $color-blue-light;
+  }
+
+  &_link:link,
+  &_link:visited {
+    color: $color-gray-light-1;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+  }
+
+  .side-nave_link {
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: $color-gray-light-2;
+    align-content: center;
+  }
+}
+
+.category {
+  color: whitesmoke;
+  background: #199898;
+  padding: 1rem;
+  font-size: 1.3rem;
+  text-transform: uppercase;
+}
