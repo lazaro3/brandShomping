@@ -23,7 +23,7 @@
         class="home_img"
       />
       <h5 class="descricao">Qualidade em primeiro</h5> vdvfd
-      <p>adidas</p>
+      <p>Dior</p>
     </div>
 
     <div class="home">
