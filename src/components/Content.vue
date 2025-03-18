@@ -7,7 +7,7 @@
         class="home_img"
       />
       <h5 class="descricao">Qualidade em primeiro</h5>
-      <p>adidas</p>
+      <p>Reebok</p>
     </div>
 
     <div class="home">
