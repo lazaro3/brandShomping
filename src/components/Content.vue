@@ -12,8 +12,8 @@
 
     <div class="home">
       <img src="../assets/img/adidas-sapat.jpg" alt="" class="home_img" />
-      <h5 class="descricao">Qualidade em primeiro</h5>
-      <p>adidas</p>
+      <h5 class="descricao">Qualidade em primeiro lugar</h5>
+      <p>Nike</p>
     </div>
 
     <div class="home">
